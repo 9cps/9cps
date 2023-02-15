@@ -34,7 +34,7 @@ In my previous role, I played a key role in the development and deployment of se
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" align="right" style="float: right; margin-top: -200px; width: 400px;" />
+<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" align="right" style="float: right; margin-top: -200px; width: 300px;" />
 
 ### Socials
 
