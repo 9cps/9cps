@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" style="width:55px;"> Hi ! My name is Chokpaisan Sripraiwan
+<img src="https://daisyui.com/images/emoji/yawning-face@72.webp" style="width:55px;"> Hi ! My name is Chokpaisan Sripraiwan
 =============================================================================================================================================
 
 **_━ Softwere Engineer ━_** 
