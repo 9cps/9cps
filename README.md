@@ -3,7 +3,9 @@
 
 **_━ Softwere Engineer ━_** 
 
-In my previous role, I played a key role in the development and deployment of several successful projects, and I am always looking for new challenges and opportunities to learn and grow.
+In my previous role, I played a key role in the development and deployment of several successful projects, and I am always looking for new challenges and opportunities to learn and grow ❤️
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 >🌍  I'm based in Bangkok, Thailand<br />
 >🖥️  See my portfolio at [Link](http://9cps.github.io/Profile/)<br />
@@ -42,7 +44,12 @@ In my previous role, I played a key role in the development and deployment of se
 ### 🏆 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=9CPS&theme=onedark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=9CPS&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="left" height="197em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9cps&layout=compact&theme=onedark" alt=9cps />
 
 
+### 🏆 GitHub Statistics
+
+<a href="https://github.com/9cps">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9cps&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9cps&theme=onedark" height="180em" />
 
