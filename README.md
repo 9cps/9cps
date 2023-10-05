@@ -46,6 +46,6 @@ In my previous role, I played a key role in the development and deployment of se
 <a href="https://github.com/9cps">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9cps&theme=onedark" height="180em" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9cps&layout=compact&theme=onedark" alt=9cps />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=9cps&theme=onedark" alt=9cps />
+<img width="637px" src="https://github-readme-streak-stats.herokuapp.com/?user=9cps&theme=onedark" alt=9cps />
 
 
