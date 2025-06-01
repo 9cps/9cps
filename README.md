@@ -1,11 +1,11 @@
-<img src="https://daisyui.com/images/emoji/yawning-face@72.webp" style="width:55px;"> Hi ! My name is Chokpaisan Sripraiwan
+<img src="https://img.daisyui.com/images/emoji/yawning-face@80.webp" style="width:55px;"> Hi ! My name is Chokpaisan Sripraiwan
 =============================================================================================================================================
 
 **_━ Softwere Engineer ━_** 
 
 In my previous role, I played a key role in the development and deployment of several successful projects, and I am always looking for new challenges and opportunities to learn and grow ❤️
 
-<img src="https://img.daisyui.com/images/emoji/yawning-face@80.webp">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 >🌍  I'm based in Bangkok, Thailand<br />
 >🖥️  See my portfolio at [Link](http://9cps.github.io/Profile/)<br />
