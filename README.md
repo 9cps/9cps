@@ -5,7 +5,7 @@
 
 In my previous role, I played a key role in the development and deployment of several successful projects, and I am always looking for new challenges and opportunities to learn and grow ❤️
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.daisyui.com/images/emoji/yawning-face@80.webp">
 
 >🌍  I'm based in Bangkok, Thailand<br />
 >🖥️  See my portfolio at [Link](http://9cps.github.io/Profile/)<br />
